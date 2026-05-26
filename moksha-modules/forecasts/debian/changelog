@@ -1,3 +1,9 @@
+moksha-module-forecasts (0.1.1-10) noble; urgency=low
+
+  * JSON does not provide observation time now
+
+ -- Robert Wiley <ylee@bodhilinux.com>  Tue, 26 May 2026 01:47:11 -0400
+
 moksha-module-forecasts (0.1.1-9) noble; urgency=low
 
   * JSON cache problem fix again
